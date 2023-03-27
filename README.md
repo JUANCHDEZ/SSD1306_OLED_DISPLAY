@@ -15,6 +15,8 @@ La tecnología de pantalla OLED tiene una calidad de imagen extremadamente alta 
 
 El sensor SSD1306 OLED display es un tipo de pantalla OLED (Organic Light Emitting Diode) que se utiliza en una amplia variedad de aplicaciones, desde dispositivos portátiles hasta electrónica de consumo y aplicaciones industriales. Para comprender mejor el funcionamiento de este sensor, es necesario tener en cuenta algunos conceptos importantes relacionados con la tecnología OLED.
 
+![](https://programarfacil.com/wp-content/uploads/2020/02/memoria-ram-pantalla-oled-arduino.jpg)
+
 Un OLED es una tecnología de visualización que utiliza materiales orgánicos para generar luz en respuesta a una corriente eléctrica. A diferencia de las pantallas LCD (Liquid Crystal Display), los OLED no requieren una luz de fondo separada, lo que los hace más delgados y eficientes en cuanto al consumo de energía. En lugar de una matriz de píxeles retroiluminados, una pantalla OLED consta de una serie de capas de materiales orgánicos que generan luz cuando se aplica una corriente eléctrica.
 
 
