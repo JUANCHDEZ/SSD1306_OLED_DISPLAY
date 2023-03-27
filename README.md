@@ -20,7 +20,7 @@ El sensor SSD1306 OLED display es un tipo de pantalla OLED (Organic Light Emitti
 Un OLED es una tecnología de visualización que utiliza materiales orgánicos para generar luz en respuesta a una corriente eléctrica. A diferencia de las pantallas LCD (Liquid Crystal Display), los OLED no requieren una luz de fondo separada, lo que los hace más delgados y eficientes en cuanto al consumo de energía. En lugar de una matriz de píxeles retroiluminados, una pantalla OLED consta de una serie de capas de materiales orgánicos que generan luz cuando se aplica una corriente eléctrica.
 
 
-![imagen](https://programarfacil.com/wp-content/uploads/2020/02/pineado-pantalla-oled-arduino-esp8266-02.jpg)
+![imagen](https://programarfacil.com/wp-content/uploads/2020/02/pineado-pantalla-oled-arduino-esp8266-02.jpg)   ![](https://programarfacil.com/wp-content/uploads/2020/02/regulador-tension-pantalla-oled-ssd1306.jpg)
 
 
 El sensor SSD1306 OLED display en particular es un tipo de controlador de pantalla OLED que se utiliza para controlar y gestionar una pantalla OLED de tipo monocromática de 128x64 píxeles. Este controlador se comunica a través de una interfaz de comunicación serial (SPI) y se puede programar para mostrar texto, gráficos y otros tipos de información.
