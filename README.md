@@ -28,3 +28,6 @@ El sensor SSD1306 OLED display en particular es un tipo de controlador de pantal
 En términos de su arquitectura interna, el SSD1306 OLED display está construido con una matriz de transistores orgánicos que controlan el flujo de corriente a través de los materiales orgánicos de la pantalla. Estos transistores se organizan en una matriz bidimensional, lo que permite controlar individualmente cada píxel de la pantalla. El controlador SSD1306 se encarga de enviar los datos de imagen a la pantalla y de controlar el brillo y el contraste.
 
 ![](https://programarfacil.com/wp-content/uploads/2020/02/memoria-ram-pantalla-oled-arduino.jpg)
+
+### Ejemplo WOKWI
+https://wokwi.com/projects/360546924521776129
